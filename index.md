@@ -1,5 +1,5 @@
-# <H1> Test
-# <H2> Learn how to use markdown
-# <H3> It's simple, they said
-# <H6> I don't believe them..
-Added a header! 
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
